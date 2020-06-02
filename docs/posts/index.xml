@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Primeros pasos con Hugo</title>
-    <link>http://example.com/posts/</link>
+    <link>https://deswebcom.github.io/primeros-pasos-hugo/posts/</link>
     <description>Recent content in Posts on Primeros pasos con Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 02 Jun 2020 01:48:47 +0200</lastBuildDate>
     
-	<atom:link href="http://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://deswebcom.github.io/primeros-pasos-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Esto Es Hugo</title>
-      <link>http://example.com/posts/esto-es-hugo/</link>
+      <link>https://deswebcom.github.io/primeros-pasos-hugo/posts/esto-es-hugo/</link>
       <pubDate>Tue, 02 Jun 2020 01:48:47 +0200</pubDate>
       
-      <guid>http://example.com/posts/esto-es-hugo/</guid>
+      <guid>https://deswebcom.github.io/primeros-pasos-hugo/posts/esto-es-hugo/</guid>
       <description>Este es el contenido el post &amp;ldquo;esto es Hugo&amp;rdquo;
 ¿Te gusta?</description>
     </item>

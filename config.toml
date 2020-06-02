@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://deswebcom.github.io/primeros-pasos-hugo/"
 languageCode = "es"
 title = "Primeros pasos con Hugo"
 theme = "tale"

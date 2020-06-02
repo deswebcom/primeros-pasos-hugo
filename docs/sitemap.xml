@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/posts/esto-es-hugo/</loc>
+    <loc>https://deswebcom.github.io/primeros-pasos-hugo/posts/esto-es-hugo/</loc>
     <lastmod>2020-06-02T01:48:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/posts/</loc>
+    <loc>https://deswebcom.github.io/primeros-pasos-hugo/posts/</loc>
     <lastmod>2020-06-02T01:48:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/contacto/</loc>
+    <loc>https://deswebcom.github.io/primeros-pasos-hugo/contacto/</loc>
     <lastmod>2020-06-02T01:26:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://deswebcom.github.io/primeros-pasos-hugo/</loc>
     <lastmod>2020-06-02T01:26:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://deswebcom.github.io/primeros-pasos-hugo/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://deswebcom.github.io/primeros-pasos-hugo/tags/</loc>
   </url>
   
 </urlset>
