@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primeros pasos con Hugo</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Primeros pasos con Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 Jun 2020 01:26:56 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Esto Es Hugo</title>
+      <link>http://example.com/posts/esto-es-hugo/</link>
+      <pubDate>Tue, 02 Jun 2020 01:48:47 +0200</pubDate>
+      
+      <guid>http://example.com/posts/esto-es-hugo/</guid>
+      <description>Este es el contenido el post &amp;ldquo;esto es Hugo&amp;rdquo;
+¿Te gusta?</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://example.com/contacto/</link>
+      <pubDate>Tue, 02 Jun 2020 01:26:56 +0200</pubDate>
+      
+      <guid>http://example.com/contacto/</guid>
+      <description>Este es el contacto con los administradores del sitio web.
+ Email Teléfono Twitter  </description>
+    </item>
+    
+  </channel>
+</rss>
